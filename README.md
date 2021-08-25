@@ -11,6 +11,9 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [ProvONE+: A Provenance Model for Scientific Workflows](https://link.springer.com/chapter/10.1007%2F978-3-030-62008-0_30) (WISE'20)  
   - [Workflow Provenance in the Lifecycle of Scientific Machine Learning](https://arxiv.org/abs/2010.00330) (arXiv, Sept. 2020)
   - [Provenance in Collaborative in Silico Scientific Research: a Survey](https://dl.acm.org/doi/10.1145/3442322.3442329) (SIGMOD'20)
+  - [Provenance Data in the Machine Learning Lifecycle in Computational Science and Engineering](https://hal-lirmm.ccsd.cnrs.fr/lirmm-02335500/document) (WORKS'19)
+  - [The role of machine learning in scientific workflows](https://journals.sagepub.com/doi/pdf/10.1177/1094342019852127) (Int. J. HPC, 2019)
+  - [Efficient Runtime Capture of Multiworkflow Data Using Provenance](https://ieeexplore.ieee.org/document/9041720)(eScience'19)
   - [Big Provenance Stream Processing for Data Intensive Computations](https://ieeexplore.ieee.org/document/8588658) (eScience'18)
   - [DAC-MAN: Data Change Management for Scientific Datasets on HPC systems](https://ieeexplore.ieee.org/document/8665773) (SC'18)
   - [Capturing and Querying Workflow Runtime Provenance with PROV: a Practical Approach](https://dl.acm.org/doi/10.1145/2457317.2457365) (EDBT'13)
@@ -38,6 +41,8 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - Provenance & Reliability
   - [Lineage-driven Fault Injection](https://dl.acm.org/doi/10.1145/2723372.2723711) (SIGMOD'15)
 - Multi area
+  - [A survey on provenance: What for? What form? What from?](https://dl.acm.org/doi/10.1007/s00778-017-0486-1) (VLDB.J'17)
+  - [A Primer on Provenance](https://queue.acm.org/detail.cfm?id=2602651) (ACMqueue'14)
   - [Special Issue on Data Provenance](http://sites.computer.org/debull/A07dec/issue1.htm) (Data Engineering Bulletin Issues, Dec. 2007)
     - Provenance in Databases: Past, Current, and Future
     - Provenance and Data Synchronization	
