@@ -8,6 +8,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [A Generic Provenance Middleware for Queries, Updates, and Transactions](https://www.usenix.org/conference/tapp2014/agenda/presentation/arab) (TaPP'14)
   - [Study in Usefulness of Middleware-Only Provenance](https://ieeexplore.ieee.org/document/6972267) (eScience'14)
 - Provenance in e-Science
+  - [Provenance in Collaborative in Silico Scientific Research: a Survey](https://sigmodrecord.org/publications/sigmodRecord/2006/pdfs/06_Surveys_Jandre.pdf) (SIGMOD record'20)
   - [ProvONE+: A Provenance Model for Scientific Workflows](https://link.springer.com/chapter/10.1007%2F978-3-030-62008-0_30) (WISE'20)  
   - [Workflow Provenance in the Lifecycle of Scientific Machine Learning](https://arxiv.org/abs/2010.00330) (arXiv, Sept. 2020)
   - [Provenance in Collaborative in Silico Scientific Research: a Survey](https://dl.acm.org/doi/10.1145/3442322.3442329) (SIGMOD'20)
@@ -21,16 +22,21 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [A survey of data provenance in e-science](https://dl.acm.org/doi/10.1145/1084805.1084812) (SIGMOD'05)
   - [Lineage Retrieval for Scientific Data Processing: A Survey](https://dl.acm.org/doi/10.1145/1057977.1057978) (ACM Computing Surveys, Mar. 2005)
 - Provenance in database
+  - [Going Beyond Provenance: Explaining Query Answers with Pattern-based Counterbalances](https://dl.acm.org/doi/10.1145/3299869.3300066) (SIGMOD'19)
   - [A Provenance Storage Method Based On Parallel Database](https://ieeexplore.ieee.org/document/7120563) (ICISCE'20)
   - [Interoperability for Provenance-aware Databases using PROV and JSON](https://www.usenix.org/conference/tapp15/workshop-program/presentation/niu) (TaPP'15)
   - [Why and Where􏰀 Characterization of Data Provenance](https://dl.acm.org/doi/10.5555/645504.656274) (ICDT'01)
 - Provenance in scripts
   - [Improving Data Scientist Efficiency with Provenance](https://www.seltzer.com/assets/publications/icse2020-provbuild.pdf) (ICSE'20)  
   - [noWorkflow: a Tool for Collecting, Analyzing, and Managing Provenance from Python Scripts](http://www.vldb.org/pvldb/vol10/p1841-pimentel.pdf) (VLDB'17)
+- Provenance in machine learning
+  - [PrIU: A Provenance-Based Approach for Incrementally Updating Regression Models](https://dl.acm.org/doi/abs/10.1145/3318464.3380571) (SIGMOD'20)
 - Provenance visualization
   - [Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes](https://ieeexplore.ieee.org/document/7192714) (TVCG'16)
   - [Evaluation of filesystem provenance visualization tools](https://dash.harvard.edu/bitstream/handle/1/11326224/InfoVis_borkin-124_camera-ready.pdf;jsessionid=7F79F6083C394AB59756F0AF7C5AFB73?sequence=1) (TVCG'13) 
   - [Using VisTrails and Provenance for Teaching Scientific Visualization](https://columbiadb.github.io/files/papers/vistrails-teach.pdf) (COMPUTER GRAPHICS forum 2011)
+- Provenance optimization
+  - [Hypothetical Reasoning via Provenance Abstraction](https://dl.acm.org/doi/10.1145/3299869.3300084) (SIGMOD'19)
 - Provenance standard
   - [The W3C PROV family of specifications for modelling provenance metadata](https://dl.acm.org/doi/10.1145/2452376.2452478) (EDBT '13) 
 - Provenance systems
@@ -38,9 +44,12 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Taverna, reloaded](SSDBM’10) (https://link.springer.com/chapter/10.1007/978-3-642-13818-8_33)
   - [Provenance-Aware Storage Systems](https://dl.acm.org/doi/10.5555/1267359.1267363) (ATC'06)
   - [Trio: A System for Integrated Management of Data, Accuracy, and Lineage](http://cidrdb.org/cidr2005/papers/P22.pdf) (CIDR'05)
-- Provenance & Reliability
+- Provenance & Reliability & Security
+  - [On Optimizing the Trade-off between Privacy and Utility in Data Provenance](https://arxiv.org/abs/2103.00288) (SIGMOD'21)
+
   - [Lineage-driven Fault Injection](https://dl.acm.org/doi/10.1145/2723372.2723711) (SIGMOD'15)
 - Multi area
+  - [Data provenance: What’s next?](https://dl.acm.org/doi/abs/10.1145/3316416.3316418) (SIGMOD Record'18)
   - [A survey on provenance: What for? What form? What from?](https://dl.acm.org/doi/10.1007/s00778-017-0486-1) (VLDB.J'17)
   - [A Primer on Provenance](https://queue.acm.org/detail.cfm?id=2602651) (ACMqueue'14)
   - [Special Issue on Data Provenance](http://sites.computer.org/debull/A07dec/issue1.htm) (Data Engineering Bulletin Issues, Dec. 2007)
