@@ -68,6 +68,10 @@ A collection of data provenance papers & talks. Papers are classified by researc
     - Issues in Building Practical Provenance Systems
     - Provenance in Scientific Workflow Systems
     - Copyright and Provenance: Some Practical Problems
+- RDF storage & hardware acceleration
+  - [Fast and Concurrent RDF Queries using RDMA-assisted GPU Graph Exploration](https://dl.acm.org/doi/10.5555/3277355.3277418) (ATC'18)
+  - [Sub-millisecond Stateful Stream Querying over Fast-evolving Linked Data](https://dl.acm.org/doi/10.1145/3132747.3132777) (SOSP'17)
+  - [Fast and Concurrent RDF Queries with RDMA- Based Distributed Graph Exploration](https://dl.acm.org/doi/10.5555/3026877.3026902) (OSDI'16)
 
 ## Talks
 - [Leveraging HDF5 infrastructure by ADF to build an interoperable package & contextualized data in Pharma using semantic technology](https://www.hdfgroup.org/wp-content/uploads/2020/10/Leveraging_HDF5_infrastructure_by-_ADF_Amnon_Ptashek.pdf)
