@@ -38,6 +38,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [The Best of Both Worlds: Challenges in Linking Provenance and Explainability in Distributed Machine Learning](https://ieeexplore.ieee.org/document/8885193) (ICDCS'19)
 - Provenance query
   - [Ariadne: Online Provenance for Big Graph Analytics](https://dl.acm.org/doi/10.1145/3299869.3300091) (SIGMOD'19)
+  - [Zoom*UserViews: querying relevant provenance in workflow systems](https://dl.acm.org/doi/pdf/10.5555/1325851.1326016) (VLDB'07)
 - Provenance visualization
   - [Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes](https://ieeexplore.ieee.org/document/7192714) (TVCG'16)
   - [Evaluation of filesystem provenance visualization tools](https://dash.harvard.edu/bitstream/handle/1/11326224/InfoVis_borkin-124_camera-ready.pdf;jsessionid=7F79F6083C394AB59756F0AF7C5AFB73?sequence=1) (TVCG'13) 
