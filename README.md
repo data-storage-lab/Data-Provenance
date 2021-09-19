@@ -52,6 +52,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - Provenance systems
   - [Provenance Integration Requires Reconciliation](https://www.usenix.org/conference/tapp11/provenance-integration-requires-reconciliation) (TaPP'11)
   - [Taverna, reloaded](SSDBM’10) (https://link.springer.com/chapter/10.1007/978-3-642-13818-8_33)
+  - [Layering in Provenance Systems](https://dl.acm.org/doi/10.5555/1855807.1855817) (ATC'09)
   - [Provenance-Aware Storage Systems](https://dl.acm.org/doi/10.5555/1267359.1267363) (ATC'06)
   - [Trio: A System for Integrated Management of Data, Accuracy, and Lineage](http://cidrdb.org/cidr2005/papers/P22.pdf) (CIDR'05)
 - Provenance & Reliability & Security
