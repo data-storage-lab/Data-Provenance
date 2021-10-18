@@ -62,6 +62,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Data provenance: What’s next?](https://dl.acm.org/doi/abs/10.1145/3316416.3316418) (SIGMOD Record'18)
   - [A survey on provenance: What for? What form? What from?](https://dl.acm.org/doi/10.1007/s00778-017-0486-1) (VLDB.J'17)
   - [A Primer on Provenance](https://queue.acm.org/detail.cfm?id=2602651) (ACMqueue'14)
+  - [The Foundations for Provenance on the Web](https://dl.acm.org/doi/10.1561/1800000010) (Foundations and Trends in Web Science 2010)
   - [Special Issue on Data Provenance](http://sites.computer.org/debull/A07dec/issue1.htm) (Data Engineering Bulletin Issues, Dec. 2007)
     - Provenance in Databases: Past, Current, and Future
     - Provenance and Data Synchronization	
