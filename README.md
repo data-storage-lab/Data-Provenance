@@ -57,7 +57,10 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Trio: A System for Integrated Management of Data, Accuracy, and Lineage](http://cidrdb.org/cidr2005/papers/P22.pdf) (CIDR'05)
 - Provenance & Reliability & Security
   - [On Optimizing the Trade-off between Privacy and Utility in Data Provenance](https://arxiv.org/abs/2103.00288) (SIGMOD'21)
+  - [Towards Scalable Cluster Auditing through Grammatical Inference over Provenance Graphs](https://whassan3.web.engr.illinois.edu/papers/hassan-ndss18.pdf) (NDSS'18)
   - [Lineage-driven Fault Injection](https://dl.acm.org/doi/10.1145/2723372.2723711) (SIGMOD'15)
+  - [Trustworthy Whole-System Provenance for the Linux Kernel](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-bates.pdf) (Security'15)
+  - [Backtracking Intrusions](https://css.csail.mit.edu/6.858/2019/readings/backtracking.pdf) (ACM Transactions on Computer Systems '2005)
 - Multi area
   - [Data provenance: What’s next?](https://dl.acm.org/doi/abs/10.1145/3316416.3316418) (SIGMOD Record'18)
   - [A survey on provenance: What for? What form? What from?](https://dl.acm.org/doi/10.1007/s00778-017-0486-1) (VLDB.J'17)
