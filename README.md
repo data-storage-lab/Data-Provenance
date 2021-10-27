@@ -45,11 +45,14 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Using VisTrails and Provenance for Teaching Scientific Visualization](https://columbiadb.github.io/files/papers/vistrails-teach.pdf) (COMPUTER GRAPHICS forum 2011)
 - Provenance optimization
   - [Hypothetical Reasoning via Provenance Abstraction](https://dl.acm.org/doi/10.1145/3299869.3300084) (SIGMOD'19)
+  - [ProTracer: Towards Practical Provenance Tracing by Alternating Between Logging and Tainting ](https://friends.cs.purdue.edu/pubs/NDSS16.pdf) (NDSS'16)
+  - [LogGC: Garbage Collecting Audit Log](https://dl.acm.org/doi/10.1145/2508859.2516731) (CCS'13)
   - [Provenance analysis: Towards quality provenance ](https://ieeexplore.ieee.org/document/6404480) (eScience'12)
 - Provenance standard
   - [The W3C PROV family of specifications for modelling provenance metadata](https://dl.acm.org/doi/10.1145/2452376.2452478) (EDBT '13) 
   - [A Framework for Collecting Provenance in Data-Centric Scientific Workflows](https://ieeexplore.ieee.org/document/4032054) (ICWS'06)
 - Provenance systems
+  - [Runtime Analysis of Whole-System Provenance](https://dl.acm.org/doi/10.1145/3243734.3243776) (CCS'18)
   - [Provenance Integration Requires Reconciliation](https://www.usenix.org/conference/tapp11/provenance-integration-requires-reconciliation) (TaPP'11)
   - [Taverna, reloaded](https://link.springer.com/chapter/10.1007/978-3-642-13818-8_33) (SSDBM’10)
   - [Layering in Provenance Systems](https://dl.acm.org/doi/10.5555/1855807.1855817) (ATC'09)
@@ -58,8 +61,10 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - Provenance & Reliability & Security
   - [On Optimizing the Trade-off between Privacy and Utility in Data Provenance](https://arxiv.org/abs/2103.00288) (SIGMOD'21)
   - [Towards Scalable Cluster Auditing through Grammatical Inference over Provenance Graphs](https://whassan3.web.engr.illinois.edu/papers/hassan-ndss18.pdf) (NDSS'18)
+  - [FRAPpuccino: Fault-detection through Runtime Analysis of Provenance ](https://www.seltzer.com/assets/publications/FRAPpuccino.pdf) (HotCloud'17)
   - [Lineage-driven Fault Injection](https://dl.acm.org/doi/10.1145/2723372.2723711) (SIGMOD'15)
   - [Trustworthy Whole-System Provenance for the Linux Kernel](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-bates.pdf) (Security'15)
+  - [Hi-Fi: collecting high-fidelity whole-system provenance](https://www.cise.ufl.edu/~butler/pubs/acsac12b.pdf) (Annual Computer Security Applications Conference 2012)
   - [Backtracking Intrusions](https://css.csail.mit.edu/6.858/2019/readings/backtracking.pdf) (ACM Transactions on Computer Systems '2005)
 - Multi area
   - [Data provenance: What’s next?](https://dl.acm.org/doi/abs/10.1145/3316416.3316418) (SIGMOD Record'18)
