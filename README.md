@@ -111,3 +111,9 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - [The Importance of Data Set Provenance for Science](https://eos.org/opinions/the-importance-of-data-set-provenance-for-science)
 - [FAIR Principles](https://www.go-fair.org/fair-principles/)
   - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+- Open Access Datasets
+  - https://livingatlas.arcgis.com/esri_ngda_datasets/
+  - https://datasetsearch.research.google.com
+  - https://ieee-dataport.org
+  - https://www.dataone.org/fair/
+  - https://www.data.gov
