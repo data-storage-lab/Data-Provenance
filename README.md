@@ -85,8 +85,9 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Fast and Concurrent RDF Queries using RDMA-assisted GPU Graph Exploration](https://dl.acm.org/doi/10.5555/3277355.3277418) (ATC'18)
   - [Sub-millisecond Stateful Stream Querying over Fast-evolving Linked Data](https://dl.acm.org/doi/10.1145/3132747.3132777) (SOSP'17)
   - [Fast and Concurrent RDF Queries with RDMA- Based Distributed Graph Exploration](https://dl.acm.org/doi/10.5555/3026877.3026902) (OSDI'16)
-- FAIR principles
+- FAIR principles: maturity evaluations and implimentation considerations
   - [Evaluating FAIR maturity through a scalable, automated, community-governed framework](https://www.nature.com/articles/s41597-019-0184-5) (Scientific data, Nature, 2019)
+    - [W3C Ontology](https://peta-pico.github.io/FAIR-nanopubs/icc/index-en.html#https://w3id.org/fair/icc/terms/FAIR-ICC-Model)
   - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618) (Scientific data, Nature, 2016)
 
 
