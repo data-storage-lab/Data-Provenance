@@ -90,6 +90,8 @@ A collection of data provenance papers & talks. Papers are classified by researc
     - [W3C Ontology](https://peta-pico.github.io/FAIR-nanopubs/icc/index-en.html#https://w3id.org/fair/icc/terms/FAIR-ICC-Model)
   - [Evaluating FAIR maturity through a scalable, automated, community-governed framework](https://www.nature.com/articles/s41597-019-0184-5) (Scientific data, Nature, 2019)
     - [Web APIs](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/collections/new/evaluate)
+  - [Results of an Analysis of Existing FAIR Assessment Tools](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools) (2019)
+
   - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618) (Scientific data, Nature, 2016)
 
 
