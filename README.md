@@ -53,6 +53,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [The W3C PROV family of specifications for modelling provenance metadata](https://dl.acm.org/doi/10.1145/2452376.2452478) (EDBT '13) 
   - [A Framework for Collecting Provenance in Data-Centric Scientific Workflows](https://ieeexplore.ieee.org/document/4032054) (ICWS'06)
 - Provenance systems
+  - [Improve Data Scientist Efficiency with Provenance](https://dl.acm.org/doi/10.1145/3377811.3380366) (ICSE'20)
   - [Runtime Analysis of Whole-System Provenance](https://dl.acm.org/doi/10.1145/3243734.3243776) (CCS'18)
   - [Provenance Integration Requires Reconciliation](https://www.usenix.org/conference/tapp11/provenance-integration-requires-reconciliation) (TaPP'11)
   - [Taverna, reloaded](https://link.springer.com/chapter/10.1007/978-3-642-13818-8_33) (SSDBM’10)
