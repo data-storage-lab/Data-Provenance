@@ -34,6 +34,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Improving Data Scientist Efficiency with Provenance](https://www.seltzer.com/assets/publications/icse2020-provbuild.pdf) (ICSE'20)  
   - [noWorkflow: a Tool for Collecting, Analyzing, and Managing Provenance from Python Scripts](http://www.vldb.org/pvldb/vol10/p1841-pimentel.pdf) (VLDB'17)
 - Provenance in machine learning
+  - [LIMA: Fine-grained Lineage Tracing and Reuse in Machine Learning Systems](https://dl.acm.org/doi/abs/10.1145/3448016.3452788) (SIGMOD'21)
   - [PrIU: A Provenance-Based Approach for Incrementally Updating Regression Models](https://dl.acm.org/doi/abs/10.1145/3318464.3380571) (SIGMOD'20)
   - [The Best of Both Worlds: Challenges in Linking Provenance and Explainability in Distributed Machine Learning](https://ieeexplore.ieee.org/document/8885193) (ICDCS'19)
 - Provenance query
