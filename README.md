@@ -89,6 +89,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
 ## Provenance & Reliability & Security
   - [ProvTalk: Towards Interpretable Multi-level Provenance Analysis in Networking Functions Virtualization (NFV)](https://www.ndss-symposium.org/ndss-paper/auto-draft-232/) (NDSS'21)
   - [On Optimizing the Trade-off between Privacy and Utility in Data Provenance](https://arxiv.org/abs/2103.00288) (SIGMOD'21)
+  - [Lineage Stash: Fault Tolerance Off the Critical Path](https://dl.acm.org/doi/10.1145/3341301.3359653) (SOSP'19) 
   - [Towards Scalable Cluster Auditing through Grammatical Inference over Provenance Graphs](https://whassan3.web.engr.illinois.edu/papers/hassan-ndss18.pdf) (NDSS'18)
   - [Practical Whole-System Provenance Capture](https://dl.acm.org/doi/10.1145/3127479.3129249) (SoCC'17)
   - [FRAPpuccino: Fault-detection through Runtime Analysis of Provenance ](https://www.seltzer.com/assets/publications/FRAPpuccino.pdf) (HotCloud'17)
